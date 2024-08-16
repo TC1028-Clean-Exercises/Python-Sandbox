@@ -3,12 +3,23 @@
 
 Name: <your name>
 Date: <today's date>
+
+ALGORITH:
+
+Inputs: 
+Outputs:
+
+1. Start
+2. Get <input value>
+3. <Do something>
+4. Show <results>
+5. End
 """
 
 
 def main():
-    """ <Description of the function> """
-    # Replace this comment and the `pass` instruction with your code
+    """ Main program function """
+    # Write your code here, replacing the 'pass' statement
     pass
 
 
